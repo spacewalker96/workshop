@@ -3,15 +3,15 @@
     padding: 0;
   }
   
-  .page-heading {
+  .some-heading {
     box-sizing: border-box;
     font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
     font-size: 3.5rem;
     padding: 5rem 3rem;
     text-align: center;
     text-rendering: optimizeLegibility;
-    color: #131313;
-    background-color: #e7e5e4;
+    color: #fa0303;
+    background-color: #24c539;
     letter-spacing: .15em;
   }
   
